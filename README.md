@@ -4,7 +4,7 @@
 
 ![财路云(CaiLu)](https://i.eoht.net/airport/cailu_logo.webp)
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/cailu) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/cailu) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 财路云(CaiLu) 主打**三网优化线路**，面向日常海外网站访问、流媒体观影和 AI 工具使用。月付从 **¥7、50GB/月**起，另有季付、年付特惠及不限时流量包；套餐页均标注 **2 倍率**，选择时需要同时比较标称流量和计费倍率。
 
