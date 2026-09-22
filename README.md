@@ -99,3 +99,5 @@
 想继续比较预算和线路，可阅读[线路选择指南](https://eoht.net/serve/routes/selection)，或返回[机场推荐与套餐对比](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)。使用场景可参考[流媒体观影指南](https://eoht.net/streaming/summary)和[AI 工具使用指南](https://eoht.net/ai/summary)，客户端安装可参考[科学上网客户端教程汇总](https://eoht.net/serve/antiwall/summary)。
 
 [立即购买财路云套餐](https://eoht.net/serve/airport/cailu)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
